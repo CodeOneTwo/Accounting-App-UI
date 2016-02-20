@@ -9,7 +9,10 @@
       "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
     },
     "react/react.d.ts": {
-      "commit": "a6ff9f6e195a334afd89e4b721d05e9520eee4c0"
+      "commit": "95433230a9913054c57c715e6b91a9ae738d0b97"
+    },
+    "material-ui/material-ui.d.ts": {
+      "commit": "95433230a9913054c57c715e6b91a9ae738d0b97"
     }
   }
 }
